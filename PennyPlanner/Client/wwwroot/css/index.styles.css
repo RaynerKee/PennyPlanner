@@ -1,0 +1,25 @@
+﻿.main-title {
+    font-weight: bold;
+}
+
+.coin-img {
+    margin: 30px auto 30px auto;
+    width: 140px;
+}
+
+.tips-div {
+    background-color: #FDA92C;
+    overflow-y: scroll;
+    max-height: 600px;
+    border-radius: 30px;
+    margin-top: 10px;
+    padding: 15px 10px 15px 10px;
+}
+
+.tip-item { 
+    border-radius: 30px;
+    background-color: #FFFFEF;
+    padding: 5px;
+    margin: 12px 8px 12px 8px;
+    height: 150px;
+}
